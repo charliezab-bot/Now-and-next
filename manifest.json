@@ -1,0 +1,16 @@
+{
+  "name": "Now & Next",
+  "short_name": "Now & Next",
+  "description": "Shows the current and upcoming lesson at a glance, with an editable weekly timetable and background pictures.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14171F",
+  "theme_color": "#14171F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
